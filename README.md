@@ -50,7 +50,7 @@
   <hr border="1" color="#30363d">
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abrshiz&show_icons=true&theme=tokyonight&hide_border=true" alt="Abrham Stats" />
+  
   </p>
 
 </div>
