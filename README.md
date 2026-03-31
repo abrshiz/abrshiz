@@ -1,106 +1,218 @@
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #30363d;">
+<!-- 🌌 abrshiz – Futuristic GitHub Profile README -->
+<!-- Premium Design | Updated March 2026 -->
 
-  <h1>👨‍💻 Hi, I'm Abrham (abrshiz)</h1>
-  <p><b>⚡ Full-Stack Developer | Java Specialist | System Architect ⚡</b></p>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=abrshiz&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Java%20Architect%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20&fontColor=ffffff"/>
   
-  <p><i>Building robust, scalable applications from backend to frontend. 
-  Passionate about clean code, system design, and solving real-world problems through technology.</i></p>
-
-  <hr border="1" color="#30363d">
-
-  <p>
-    <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Full--Stack-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Work-green?style=flat-square" />
-    <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-orange?style=flat-square" />
+  <p align="center">
+    <a href="https://github.com/abrshiz">
+      <img src="https://img.shields.io/github/followers/abrshiz?label=Followers&style=social" />
+    </a>
+    <a href="https://github.com/abrshiz?tab=repositories">
+      <img src="https://img.shields.io/badge/🔥%20Explore%20My%20Repos-6366f1?style=flat-square" />
+    </a>
+    <a href="mailto:abrshiz@yahoo.com">
+      <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=flat-square" />
+    </a>
+    <a href="https://t.me/abrshiz">
+      <img src="https://img.shields.io/badge/💬%20Telegram-2CA5E0?style=flat-square" />
+    </a>
   </p>
 
-  <h2>🚀 Tech Stack & Tools</h2>
+  <img src="https://komarev.com/ghpvc/?username=abrshiz&label=Visitors&color=6366f1&style=flat-square" alt="Profile Views"/>
+
+  <div style="text-align: center;">
+    <h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+☕+I'm+Abrham!+☕;+⚡+Java+%7C+Full-Stack+Dev!+🚀;" alt="Typing SVG" />
+    </h1>
+  </div>
+
+</div>
+
+---
+
+<!-- About Section -->
+<h2 align="center">⚡ About Me</h2>
+
+<div align="center">
+  <blockquote>
+    “Write code that lasts — scalable, maintainable, and meaningful.”
+  </blockquote>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="60%" valign="center">
+      <h3>👨‍💻 The Developer</h3>
+      <ul>
+        <li>👋 I'm <strong>Abrham</strong> (<strong>abrshiz</strong>), a developer from <strong>Dire Dawa, Ethiopia 🇪🇹</strong>.</li>
+        <li>🎓 <strong>IT Graduate</strong> — passionate about backend architecture & system design.</li>
+        <li>☕ <strong>Java Specialist</strong> — building robust, scalable applications with clean architecture.</li>
+        <li>🔭 Currently working on: <strong>Enterprise-level Java applications & full-stack solutions</strong>.</li>
+        <li>🌱 Learning: <strong>Microservices Architecture, Spring Boot, Cloud Deployment</strong>.</li>
+        <li>⚡ Fun fact: I reduced query response time by <strong>40%</strong> through database optimization and indexing strategies.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JkbWZodmM4cGFlY2Q2YzZ4NWU4amN6MnQzdHk5a2M0b3R3bGZxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="280" style="border-radius: 12px;" alt="Java Developer"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+| ☕ **Languages** | 🎨 **Frontend** | ⚙️ **Backend** |
+|:----------------:|:----------------:|:----------------:|
+| ![Langs](https://skillicons.dev/icons?i=java,javascript,python,cpp,php) | ![FE](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap) | ![BE](https://skillicons.dev/icons?i=nodejs,spring,express) |
+
+| 🗄️ **Databases** | 🧰 **Dev Tools** | 🚀 **Deployment** |
+|:----------------:|:----------------:|:----------------:|
+| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,postgres) | ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify,heroku) |
+
+</div>
+
+---
+
+## 💼 Experience & Focus Areas
+
+| 🏢 **Domain** | 🎯 **Expertise** | 🚀 **Achievements** |
+|:-------------:|:----------------:|:-------------------:|
+| **Java Development** | OOP, Design Patterns, Multithreading | Built 5+ production-ready Java applications |
+| **Database Systems** | MySQL Optimization, Schema Design | 40% faster queries through indexing strategies |
+| **Full-Stack Apps** | REST APIs, Client-Server Architecture | Complete solutions from backend to frontend |
+| **System Architecture** | Clean Code, SOLID Principles | Scalable, maintainable codebases |
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🌟 Project | 🧾 Description | 🧠 Stack |
+|:-----------|:---------------|:----------|
+| 📋 **TaskFlow Manager** | Comprehensive task management with user auth, deadlines, and categories. | Java • MySQL • OOP • SOLID |
+| 💬 **Real-time ChatVerse** | Multi-client chat system with real-time messaging & history. | Java • Sockets • Multithreading • MySQL |
+| 🏥 **MediCare HMS** | Complete hospital management with patient records, billing & appointments. | Java • Swing • MySQL • JDBC |
+| 🌐 **Portfolio 2026** | Modern developer portfolio with dark mode & animations. | HTML5 • CSS3 • JavaScript |
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **B.Sc. in Information Technology** — Dire Dawa University  
+☕ **Oracle Certified Associate, Java SE** — In Progress  
+📊 **Data Structures & Algorithms** — Advanced Problem Solving  
+🖥️ **Full-Stack Web Development** — Self-taught & Project-Based  
+💡 **Database Design & Optimization** — MySQL Certified  
+
+---
+
+## 🏆 Achievements
+
+🏆 **10+ Completed Projects** — From concept to deployment  
+☕ **Java Specialist** — Deep expertise in OOP, design patterns, and multithreading  
+📈 **Performance Optimizer** — 40% query improvement through smart indexing  
+💬 **Mentor** — Helping new developers master Java fundamentals  
+
+---
+
+## ⚡ Live Stats Dashboard
+
+<div align="center">
+
+  <!-- SYSTEM UI HEADER -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=───+SYSTEM+STATUS+───;+JAVA+ARCHITECT+ONLINE;+PLAYER:+abrshiz;+CURRENT+RANK:+A-CLASS;+COMPILING..." alt="System Status" />
+
+  <br/>
+
+  <!-- MAIN STATS SECTION -->
   <p>
-    <strong>Languages:</strong><br/>
-    <a target="_blank" href="https://www.java.com" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-    <a target="_blank" href="https://www.python.org" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-    <a target="_blank" href="https://www.w3.org/html/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-    <a target="_blank" href="https://www.w3schools.com/css/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-    <a target="_blank" href="https://www.php.net" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-    <a target="_blank" href="https://kotlinlang.org" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-    <br/><br/>
-    <strong>Frameworks & Libraries:</strong><br/>
-    <a target="_blank" href="https://reactjs.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-    <a target="_blank" href="https://nodejs.org" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-    <a target="_blank" href="https://spring.io/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-    <a target="_blank" href="https://getbootstrap.com" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-    <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-    <br/><br/>
-    <strong>Databases & Tools:</strong><br/>
-    <a target="_blank" href="https://www.mysql.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-    <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-    <a target="_blank" href="https://git-scm.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-    <a target="_blank" href="https://www.linux.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-    <a target="_blank" href="https://postman.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abrshiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abrshiz&layout=compact&langs_count=7&theme=radical" />
   </p>
 
-  <hr border="1" color="#30363d">
-
-  <h2>📊 GitHub Analytics</h2>
-  <p>
-    
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrshiz&theme=tokyonight&hide_border=true" alt="abrshiz streak stats" />
-  </p>
-  <p>
-    
-
-  <hr border="1" color="#30363d">
-
-  <h2>🏆 Featured Projects</h2>
-  <table align="center">
+  <!-- CODE GURU GIF + STREAK -->
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" width="300">
-        <strong>📋 Task Management System</strong><br/>
-        Java | MySQL | OOP<br/>
-        <a href="https://github.com/abrshiz/Java-Oriented-To-Do-List-App">🔗 View Repo</a>
+      <!-- LEFT BOX: Java Coding GIF -->
+      <td align="center" valign="center">
+        <img 
+          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFpbzFqeDk4dmYxaW9nYzFldjE2czY1NGRiN3RmYmN6dWl1dGZwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" 
+          width="320" 
+          style="border-radius: 12px; border: 3px solid #6366f1; box-shadow: 0 0 20px #6366f1;" 
+          alt="Java Code"
+        />
       </td>
-      <td align="center" width="300">
-        <strong>💬 Real-time Chat App</strong><br/>
-        Java | Sockets | Multithreading<br/>
-        <a href="https://github.com/abrshiz/Java-Oriented-Socket-Chat-App">🔗 View Repo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <strong>🏥 Hospital Management System</strong><br/>
-        Java | Swing | MySQL<br/>
-        <a href="https://github.com/wegen-jr/java-project">🔗 View Repo</a>
-      </td>
-      <td align="center" width="300">
-        <strong>🌐 Portfolio Website</strong><br/>
-        HTML | CSS | JavaScript<br/>
-        <a href="https://abrshiz-portifolio.netlify.app/">🔗 Live Demo</a>
+      <!-- RIGHT BOX: Live Streak Stats -->
+      <td align="center" valign="center" style="padding-left: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrshiz&theme=radical&hide_border=false" />
       </td>
     </tr>
   </table>
 
-  <hr border="1" color="#30363d">
+  <br/>
 
-  <h2>📫 Connect With Me</h2>
-  <p>
-    <a target="_blank" href="https://github.com/abrshiz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-    <a target="_blank" href="https://linkedin.com/in/abrshiz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-    <a target="_blank" href="mailto:abrshiz@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-    <a target="_blank" href="https://t.me/abrshiz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
-    <a target="_blank" href="https://x.com/abrsiz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
-  </p>
-
-  <hr border="1" color="#30363d">
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=abrshiz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </p>
-
-  <p>
-    <i>"Code is poetry, and I write verses that scale."</i>
-  </p>
+  <!-- HOLOGRAPHIC SYSTEM DIVIDER -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrshiz&theme=react-dark&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🧠 Coding Philosophy
+
+> “Great software is built on solid foundations — clean code, thoughtful architecture, and relentless optimization.”
+
+I believe in writing code that's not just functional but **elegant** and **maintainable**.  
+Every project is an opportunity to craft something that solves real problems and stands the test of time.
+
+---
+
+## 🤝 Let’s Connect
+
+Building something awesome? Let's collaborate and create impact together.
+
+<p align="center">
+  <a href="mailto:abrshiz@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abrshiz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/abrshiz"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/abrshiz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://x.com/abrsiz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;☕+Java+is+life,+but+creativity+is+soul;⭐+Star+my+repos+if+they+inspire+you!;Keep+coding,+keep+building." alt="Thanks Typing SVG"/>
+</div>
+
+---
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=abrshiz&label=Profile%20views&color=6366f1&style=flat-square" />
+  <br/>
+  <sub>Built with ☕ and ❤️ by <strong>Abrham (abrshiz)</strong></sub>
+</p>
