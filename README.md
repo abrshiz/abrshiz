@@ -49,7 +49,7 @@
       <h3>👨‍💻 The Developer</h3>
       <ul>
         <li>👋 I'm <strong>Abrham</strong> (<strong>abrshiz</strong>), a developer from <strong>Dire Dawa, Ethiopia 🇪🇹</strong>.</li>
-        <li>🎓 <strong>IT Graduate</strong> — passionate about backend architecture & system design.</li>
+        <li>🎓 <strong>Computer Science Graduate</strong> — passionate about backend architecture & system design.</li>
         <li>☕ <strong>Java Specialist</strong> — building robust, scalable applications with clean architecture.</li>
         <li>🔭 Currently working on: <strong>Enterprise-level Java applications & full-stack solutions</strong>.</li>
         <li>🌱 Learning: <strong>Microservices Architecture, Spring Boot, Cloud Deployment</strong>.</li>
