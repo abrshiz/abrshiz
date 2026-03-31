@@ -112,7 +112,7 @@
 
 ## 🎓 Education & Certifications
 
-🎓 **B.Sc. in Information Technology** — Dire Dawa University  
+🎓 **B.Sc. in Computer Science** — Dire Dawa University  
 ☕ **Oracle Certified Associate, Java SE** — In Progress  
 📊 **Data Structures & Algorithms** — Advanced Problem Solving  
 🖥️ **Full-Stack Web Development** — Self-taught & Project-Based  
