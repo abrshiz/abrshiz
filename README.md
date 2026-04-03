@@ -1,6 +1,3 @@
-<!-- 🌌 abrshiz – Futuristic GitHub Profile README -->
-<!-- Premium Design | Updated March 2026 -->
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=abrshiz&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Java%20Architect%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20&fontColor=ffffff"/>
