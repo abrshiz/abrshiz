@@ -155,7 +155,7 @@
       </td>
       <!-- RIGHT BOX: Live Streak Stats -->
       <td align="center" valign="center" style="padding-left: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=meraman750&theme=radical&hide_border=false" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrshiz&theme=radical&hide_border=false" />
       </td>
     </tr>
   </table>
