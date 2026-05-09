@@ -26,7 +26,7 @@
   </div>
 
 </div>
----
+
 <!-- LEETCODE HEATMAP - FULL WIDTH WITH FULL VISIBILITY -->
 <div align="left" style="width: 100%; margin: 20px 0;">
   <div style="background-color: #2d2d2d; border-radius: 10px; border: 2px solid #f9c440; width: 100%;">
@@ -42,7 +42,7 @@
     </div>
   </div>
 </div>
----
+
 
 
 <!-- About Section -->
