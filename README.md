@@ -9,7 +9,7 @@
     <a href="https://github.com/abrshiz?tab=repositories">
       <img src="https://img.shields.io/badge/🔥%20Explore%20My%20Repos-6366f1?style=flat-square" />
     </a>
-    <a href="mailto:abrshiz@yahoo.com">
+    <a href="mailto:abrhamwendesen.ta@ddu.edu.et">
       <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=flat-square" />
     </a>
     <a href="https://t.me/abrshiz">
