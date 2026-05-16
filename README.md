@@ -117,15 +117,13 @@
 | 📋 **TaskFlow Manager** | Comprehensive task management with user auth, deadlines, and categories. | Java • MySQL • OOP • SOLID |
 | 💬 **Real-time ChatVerse** | Multi-client chat system with real-time messaging & history. | Java • Sockets • Multithreading • MySQL |
 | 🏥 **MediCare HMS** | Complete hospital management with patient records, billing & appointments. | Java • Swing • MySQL • JDBC |
-| 🌐 **Portfolio 2026** | Modern developer portfolio with dark mode & animations. | HTML5 • CSS3 • JavaScript |
-
 </div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-🎓 **B.Sc. in Computer Science** — Dire Dawa University  
+🎓 **B.Sc. in Computer Science** — Dire Dawa University  (In Progress )
 ☕ **Oracle Certified Associate, Java SE** — In Progress  
 📊 **Data Structures & Algorithms** — Advanced Problem Solving  
 🖥️ **Full-Stack Web Development** — Self-taught & Project-Based  
