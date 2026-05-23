@@ -133,10 +133,10 @@
 
 ## 🏆 Achievements
 
-🏆 **10+ Completed Projects** — From concept to deployment  
-☕ **Java Specialist** — Deep expertise in OOP, design patterns, and multithreading  
-📈 **Performance Optimizer** — 40% query improvement through smart indexing  
-💬 **Mentor** — Helping new developers master Java fundamentals  
+<div align="center">
+  <img src="./assets/Cursor-Virtual-Hackathon-Addis-Ababa-Abreham-Wendesen.png" width="45%" alt="Hackathon Achievement" style="margin-right: 10px; border-radius: 10px;" />
+  <img src="./assets/photo_2026-05-23_17-51-45.jpg" width="45%" alt="Achievement Badge" style="border-radius: 10px;" />
+</div>
 
 ---
 
