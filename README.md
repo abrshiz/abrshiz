@@ -43,8 +43,6 @@
   </div>
 </div>
 
-
-
 <!-- About Section -->
 <h2 align="center">⚡ About Me</h2>
 
@@ -85,12 +83,12 @@
 
 <div align="center">
 
-| ☕ **Languages** | 🎨 **Frontend** | ⚙️ **Backend** |
-|:----------------:|:----------------:|:----------------:|
+|                            ☕ **Languages**                             |                             🎨 **Frontend**                             |                       ⚙️ **Backend**                        |
+| :---------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------: |
 | ![Langs](https://skillicons.dev/icons?i=java,javascript,python,cpp,php) | ![FE](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap) | ![BE](https://skillicons.dev/icons?i=nodejs,spring,express) |
 
-| 🗄️ **Databases** | 🧰 **Dev Tools** | 🚀 **Deployment** |
-|:----------------:|:----------------:|:----------------:|
+|                       🗄️ **Databases**                       |                             🧰 **Dev Tools**                             |                        🚀 **Deployment**                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | ![DB](https://skillicons.dev/icons?i=mysql,mongodb,postgres) | ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify,heroku) |
 
 </div>
@@ -99,12 +97,12 @@
 
 ## 💼 Experience & Focus Areas
 
-| 🏢 **Domain** | 🎯 **Expertise** | 🚀 **Achievements** |
-|:-------------:|:----------------:|:-------------------:|
-| **Java Development** | OOP, Design Patterns, Multithreading | Built 5+ production-ready Java applications |
-| **Database Systems** | MySQL Optimization, Schema Design | 40% faster queries through indexing strategies |
-| **Full-Stack Apps** | REST APIs, Client-Server Architecture | Complete solutions from backend to frontend |
-| **System Architecture** | Clean Code, SOLID Principles | Scalable, maintainable codebases |
+|      🏢 **Domain**      |           🎯 **Expertise**            |              🚀 **Achievements**               |
+| :---------------------: | :-----------------------------------: | :--------------------------------------------: |
+|  **Java Development**   | OOP, Design Patterns, Multithreading  |  Built 5+ production-ready Java applications   |
+|  **Database Systems**   |   MySQL Optimization, Schema Design   | 40% faster queries through indexing strategies |
+|   **Full-Stack Apps**   | REST APIs, Client-Server Architecture |  Complete solutions from backend to frontend   |
+| **System Architecture** |     Clean Code, SOLID Principles      |        Scalable, maintainable codebases        |
 
 ---
 
@@ -112,22 +110,23 @@
 
 <div align="center">
 
-| 🌟 Project | 🧾 Description | 🧠 Stack |
-|:-----------|:---------------|:----------|
-| 📋 **TaskFlow Manager** | Comprehensive task management with user auth, deadlines, and categories. | Java • MySQL • OOP • SOLID |
-| 💬 **Real-time ChatVerse** | Multi-client chat system with real-time messaging & history. | Java • Sockets • Multithreading • MySQL |
-| 🏥 **MediCare HMS** | Complete hospital management with patient records, billing & appointments. | Java • Swing • MySQL • JDBC |
+| 🌟 Project                 | 🧾 Description                                                             | 🧠 Stack                                |
+| :------------------------- | :------------------------------------------------------------------------- | :-------------------------------------- |
+| 📋 **TaskFlow Manager**    | Comprehensive task management with user auth, deadlines, and categories.   | Java • MySQL • OOP • SOLID              |
+| 💬 **Real-time ChatVerse** | Multi-client chat system with real-time messaging & history.               | Java • Sockets • Multithreading • MySQL |
+| 🏥 **MediCare HMS**        | Complete hospital management with patient records, billing & appointments. | Java • Swing • MySQL • JDBC             |
+
 </div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-🎓 **B.Sc. in Computer Science** — Dire Dawa University  (In Progress )
+🎓 **B.Sc. in Computer Science** — Dire Dawa University (In Progress )
 ☕ **Oracle Certified Associate, Java SE** — In Progress  
 📊 **Data Structures & Algorithms** — Advanced Problem Solving  
 🖥️ **Full-Stack Web Development** — Self-taught & Project-Based  
-💡 **Database Design & Optimization** — MySQL Certified  
+💡 **Database Design & Optimization** — MySQL Certified
 
 ---
 
@@ -135,7 +134,6 @@
 
 <div align="center">
   <img src="./assets/Cursor-Virtual-Hackathon-Addis-Ababa-Abreham-Wendesen.png" width="45%" alt="Hackathon Achievement" style="margin-right: 10px; border-radius: 10px;" />
-  <img src="./assets/photo_2026-05-23_17-51-45.jpg" width="45%" alt="Achievement Badge" style="border-radius: 10px;" />
 </div>
 
 ---
