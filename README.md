@@ -133,7 +133,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="./assets/Cursor-Virtual-Hackathon-Addis-Ababa-Abreham-Wendesen.png" width="75%" alt="Hackathon Achievement" style="margin-right: 10px; border-radius: 10px;" />
+  <img src="./assets/Cursor-Virtual-Hackathon-Addis-Ababa-Abreham-Wendesen.png" width="70%" alt="Hackathon Achievement" style="margin-right: 10px; border-radius: 10px;" />
 </div>
 
 ---
