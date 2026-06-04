@@ -16,7 +16,6 @@
       <img src="https://img.shields.io/badge/💬%20Telegram-2CA5E0?style=flat-square" />
     </a>
   </p>
-
   <img src="https://komarev.com/ghpvc/?username=abrshiz&label=Visitors&color=6366f1&style=flat-square" alt="Profile Views"/>
 
   <div style="text-align: center;">
@@ -24,7 +23,6 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+☕+I'm+Abrham!+☕;+⚡+Java+%7C+Full-Stack+Dev!+🚀;" alt="Typing SVG" />
     </h1>
   </div>
-
 </div>
 
 <!-- LEETCODE HEATMAP - FULL WIDTH WITH FULL VISIBILITY -->
